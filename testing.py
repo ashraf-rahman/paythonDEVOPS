@@ -1,1 +1,1 @@
-print "hello Dosto"
+prints "hello Dosto"
